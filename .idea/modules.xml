@@ -3,6 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Shout.iml" filepath="$PROJECT_DIR$/Shout.iml" />
+<<<<<<< HEAD
+=======
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+>>>>>>> b396d4ffad47e7fe924f3a48ed4f3dc14eacf633
     </modules>
   </component>
 </project>
